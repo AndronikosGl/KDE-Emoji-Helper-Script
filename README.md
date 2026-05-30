@@ -1,5 +1,5 @@
 ## About
-This simple script makes typing emojis in KDE Plasma easier by auto inserting them in the focus application and then closing the emoji dialog, something that existed always on Gnome but was never implemented on KDE Plasma. It uses a simple magic of ydotool, xdotool and pkill
+This simple script makes typing emojis in KDE Plasma easier by auto inserting them in the focus application and then closing the emoji dialog, something that existed always on Gnome but was never implemented on KDE Plasma. It uses a simple magic of ydotool, xdotool, pkill and qdbus kliper for modifying the clipboard
 ## Demo video
 https://github.com/user-attachments/assets/08b793bf-9e0e-42cb-a864-cf7ebafe906b
 
